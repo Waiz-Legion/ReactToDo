@@ -34,7 +34,7 @@ const CreateTaskPopup = ({modal, toggle, save}) => {
             
                     <div className = "form-group">
                         <label>Task Name</label>
-                        <input type="text" maxlength = '25' placeholder = '25 words limit...' className = "form-control" value = {taskName} onChange = {handleChange} name = "taskName"/>
+                        <input type="text" minlength = '1' maxlength = '25' placeholder = '25 words limit...' className = "form-control" value = {taskName} onChange = {handleChange} name = "taskName"/>
                     </div>
                     <div className = "form-group">
                         <label>Description</label>
