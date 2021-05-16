@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactToDo/static/css/main.3869ca44.chunk.css",
+    "main.js": "/ReactToDo/static/js/main.5997b322.chunk.js",
+    "main.js.map": "/ReactToDo/static/js/main.5997b322.chunk.js.map",
+    "runtime-main.js": "/ReactToDo/static/js/runtime-main.7c3afa9f.js",
+    "runtime-main.js.map": "/ReactToDo/static/js/runtime-main.7c3afa9f.js.map",
+    "static/css/2.8defa6fa.chunk.css": "/ReactToDo/static/css/2.8defa6fa.chunk.css",
+    "static/js/2.d7e6c221.chunk.js": "/ReactToDo/static/js/2.d7e6c221.chunk.js",
+    "static/js/2.d7e6c221.chunk.js.map": "/ReactToDo/static/js/2.d7e6c221.chunk.js.map",
+    "static/js/3.b9be1e10.chunk.js": "/ReactToDo/static/js/3.b9be1e10.chunk.js",
+    "static/js/3.b9be1e10.chunk.js.map": "/ReactToDo/static/js/3.b9be1e10.chunk.js.map",
+    "index.html": "/ReactToDo/index.html",
+    "static/css/2.8defa6fa.chunk.css.map": "/ReactToDo/static/css/2.8defa6fa.chunk.css.map",
+    "static/css/main.3869ca44.chunk.css.map": "/ReactToDo/static/css/main.3869ca44.chunk.css.map",
+    "static/js/2.d7e6c221.chunk.js.LICENSE.txt": "/ReactToDo/static/js/2.d7e6c221.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/ReactToDo/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c3afa9f.js",
+    "static/css/2.8defa6fa.chunk.css",
+    "static/js/2.d7e6c221.chunk.js",
+    "static/css/main.3869ca44.chunk.css",
+    "static/js/main.5997b322.chunk.js"
+  ]
+}
